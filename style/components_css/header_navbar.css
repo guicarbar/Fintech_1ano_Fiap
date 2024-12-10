@@ -1,0 +1,21 @@
+/* roots */
+:root {
+  --color1: #9C94C4;
+  --color2: #4C549D;
+  --color3: #2B3C93;
+  --color4: #344498;
+  --color5: #D9D9D9;
+
+  --colorWhite: #fff;
+  --colorBlack: #00030c;
+
+  --fontMain: "Roboto Mono", serif;
+}
+
+header {
+  background-color: var(--color1);
+}
+
+#navlist {
+  justify-content: end;
+}
