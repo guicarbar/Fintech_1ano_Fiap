@@ -1,0 +1,38 @@
+/* roots */
+:root {
+  --color1: #FECE41;
+  --color2: #4D4D50;
+  --color3: #FDEB6F;
+  --color4: #20D4A4;
+  --color5: #CCCCCC;
+  --color6: #666666;
+
+  --colorWhite: #fff;
+  --colorBlack: #00030c;
+
+  --colorGray: #3A3E46;
+
+  --fontMain: "Roboto Mono", serif;
+}
+
+/* footer css */
+footer {
+  height: 60vh;
+  background-color: var(--colorBlack);
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+}
+
+footer > article > ul > li:last-child > a {
+  color: var(--color1);
+  text-decoration: none;
+  font-weight: 700;
+  line-height: 1.5em;
+  transition: all 0.3s ease;
+}
+
+footer > article > ul > li:last-child > a:hover {
+  color: var(--color1);
+  text-decoration: underline;
+}
