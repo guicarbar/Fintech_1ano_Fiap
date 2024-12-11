@@ -1,23 +1,29 @@
 /* roots */
 :root {
-  --color1: #9C94C4;
-  --color2: #4C549D;
-  --color3: #2B3C93;
-  --color4: #344498;
-  --color5: #D9D9D9;
+  --color1: #FECE41;
+  --color2: #4D4D50;
+  --color3: #FDEB6F;
+  --color4: #20D4A4;
+  --color5: #CCCCCC;
+  --color6: #666666;
 
   --colorWhite: #fff;
   --colorBlack: #00030c;
 
-  --colorBg: #3A3E46;
+  --colorGray: #3A3E46;
 
   --fontMain: "Roboto Mono", serif;
 }
 
-header {
-  background-color: var(--color1);
+.navbar {
+  background-color: var(--color2);
 }
 
 #navlist {
   justify-content: end;
+}
+
+.navbar_icon {
+  width: 64px;
+  height: 64px;
 }
