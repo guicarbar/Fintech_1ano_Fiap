@@ -38,15 +38,25 @@
 /* css global */
 *, a {
   color: var(--colorBlack);
-  font-family: var(--fontMain);
+  font-size: 1em;
+  font-weight: 400;
 }
 
 body {
   background-color: var(--colorBg);
+  font-family: var(--fontMain);
 }
 
 
 /* ajustes goggle icons */
 .material-symbols-outlined {
   font-size: 48px;
+}
+
+
+/* css title */
+h1 {
+  font-size: 32px;
+  font-weight: 700;
+  text-decoration: underline;
 }

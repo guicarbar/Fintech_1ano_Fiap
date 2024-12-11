@@ -14,15 +14,20 @@
   --fontMain: "Roboto Mono", serif;
 }
 
-/* on navbar */
-.nav-link {
-  color: var(--colorBlack);
-  font-weight: 700;
-  transition: all 0.3s ease;
+
+/* css homepage */
+.banner__homepage {
+  display: flex;
+  align-items: center;
 }
 
-.nav-link:hover {
-  color: var(--colorBlack);
-  font-size: 1.3em;
-  text-decoration: underline;
+.banner_logo {
+  width: 200px;
+  height: 200px;
+}
+
+.banner__homepage > h1 {
+  font-size: 40px;
+  color: var(--color1);
+  line-height: 1.2em;
 }
