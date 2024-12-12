@@ -1,0 +1,66 @@
+/* roots */
+:root {
+  --color1: #FECE41;
+  --color2: #4D4D50;
+  --color3: #FDEB6F;
+  --color4: #20D4A4;
+  --color5: #CCCCCC;
+  --color6: #666666;
+
+  --colorWhite: #fff;
+  --colorBlack: #00030c;
+
+  --colorGray: #3A3E46;
+
+  --fontMain: "Roboto Mono", serif;
+}
+
+main > h1 {
+  color: var(--color1);
+}
+
+form {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+
+a {
+  color: var(--color3);
+  text-decoration: none;
+}
+
+.btn_cst {
+  background-color: var(--color3);
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.link_login {
+  margin: 3em;
+  display: flex;
+  gap: 2em;
+  justify-content: center;
+}
+
+.link_login > a > i {
+  color: var(--color4);
+  transition: all 0.3s ease;
+}
+
+.link_login > a > i:hover {
+  color: var(--color3);
+}
+
+.logo {
+  margin-top: 4em;
+  display: flex;
+  gap: 1em;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo > img {
+  height: 64px;
+  width: 64px;
+}
