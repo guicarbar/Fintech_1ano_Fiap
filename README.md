@@ -10,22 +10,22 @@ O **Projeto Fintech** foi desenvolvido durante o primeiro ano do curso de **Aná
 
 ### Fase 1 - Development Environment 🖥️
 
-[Fase 1](Fase-1/Fase1.md)
+[Fase 1](Documentation/Fase-1/Fase1.md)
 
 
 ### Fase 2 - Prototyping 🎨
 
-[Fase 2](Fase-2/Fase2.md)
+[Fase 2](Documentation/Fase-2/Fase2.md)
 
 
 ### Fase 3 - Modeling 🛠️
 
-[Fase 3](Fase-3/Fase3)
+[Fase 3](Documentation/Fase-3/Fase3)
 
 
 ### Fase 4 - View 
 
-[Fase 4](Fase-4/Fase4)
+[Fase 4](Documentation/Fase-4/Fase4)
 
 
 
