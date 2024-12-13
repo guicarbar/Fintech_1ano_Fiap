@@ -20,12 +20,12 @@ O **Projeto Fintech** foi desenvolvido durante o primeiro ano do curso de **Aná
 
 ### Fase 3 - Modeling 🛠️
 
-[Fase 3](Documentation/Fase-3/Fase3)
+[Fase 3](Documentation/Fase-3/Fase3.md)
 
 
 ### Fase 4 - View 
 
-[Fase 4](Documentation/Fase-4/Fase4)
+[Fase 4](Documentation/Fase-4/Fase4.md)
 
 
 
