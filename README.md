@@ -1,4 +1,4 @@
-🟢 🟡 🔴
+🟢🟡🔴
 
 # Fintech - 1º Ano FIAP 🚀
 
