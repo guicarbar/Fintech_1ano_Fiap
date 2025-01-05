@@ -25,7 +25,7 @@ Você pode acompanhar o resultado do projeto por aqui: [Money Mind](https://guic
 [Fase 3](Documentation/Fase-3/Fase3.md)
 
 
-### Fase 4 - View 
+### Fase 4 - View 🖥️
 
 [Fase 4](Documentation/Fase-4/Fase4.md)
 
