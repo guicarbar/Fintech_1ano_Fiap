@@ -6,6 +6,8 @@
 
 O **Projeto Fintech** foi desenvolvido durante o primeiro ano do curso de **Análise e Desenvolvimento de Sistemas (ADS)** na FIAP. Ele é dividido em **7 fases**, cada uma com um foco específico. O objetivo final do projeto é a criação de um **website** voltado para um **aplicativo web**, que visa ajudar os usuários a gerenciar melhor suas finanças, acompanhando entradas e saídas de dinheiro.
 
+Você pode acompanhar o resultado do projeto por aqui: [Money Mind](https://guicarbar.github.io/Fintech_1ano_Fiap/)
+
 ## Fases
 
 ### Fase 1 - Development Environment 🖥️
@@ -28,5 +30,10 @@ O **Projeto Fintech** foi desenvolvido durante o primeiro ano do curso de **Aná
 [Fase 4](Documentation/Fase-4/Fase4.md)
 
 
+### Fase 5 -
 
-**Em andamento, com previsão de finalização e atualização aqui em 14/12.**
+[Fase 5](Documentation/)
+
+
+
+**Ferias do curso, inicio das aulas para a fasse 5 em 10/02/2025**
