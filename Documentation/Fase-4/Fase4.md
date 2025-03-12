@@ -2,15 +2,18 @@
 
 # Fase 4 - Projeto Fintech 🚀
 
+
 ## View 🖥️
 
 Na quarta fase do projeto, o foco foi aprender sobre HTML e CSS com interações em JavaScript, além de utilizar o framework Bootstrap para estilização e praticidade na criação de páginas. Aprendemos como essas interações funcionam, a parte do front-end e a experiência do usuário, para criar sites responsivos e com uma estética mais agradável.
+
 
 ## Muito Estilo sem Sofrimento e Rede Social dos Desenvolvedores 🎨👨‍💻
 
 Na atividade **Muito Estilo sem Sofrimento e Rede Social dos Desenvolvedores**, fui desafiado a transformar os protótipos das telas criadas no Figma em código usando HTML, CSS e Bootstrap. O objetivo foi desenvolver as primeiras telas de como será o projeto Fintech.
 
 Você pode acessar os resultados das telas aqui: [Money Mind](https://guicarbar.github.io/Fintech_1ano_Fiap/)
+
 
 ### 📝 Observações:
 
