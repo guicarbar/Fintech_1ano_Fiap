@@ -27,5 +27,5 @@ Projeto desenvolvido em colaboração com:
 ---
 
 
-📌 Link do repositorio para acompanhar o projeto:
+📌 Link do repositorio para acompanhar a atividade completa desenvolvida no projeto:
 [Link](https://github.com/guicarbar/AtividadeCap6_Fase5-java)
